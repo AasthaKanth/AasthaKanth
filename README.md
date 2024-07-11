@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aastha Kanth</h1>
 <h3 align="center">Innovative minds, coding hearts.</h3>
-<img align = 'right' alt='coding' width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align = 'right' alt='coding' width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
  
 - 🔭 I’m currently working on **Spotify Music Recommendation System**
 
